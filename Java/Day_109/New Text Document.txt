@@ -1,0 +1,19 @@
+// Q4. Write a program to find the number of  occurance of a given character in a given string
+
+public class Q4_String_Occurrence
+{
+	public static void main(String X[])
+	{
+		String s = X[0];
+		char[] c = s.toCharArray();
+		int i, j;
+
+		for(i = '\0'; i <= '\u007F'; i++)
+		{
+			for(j = 0; j < c.length; j++)
+			{
+		
+			}
+		}
+	}
+}
